@@ -1,48 +1,46 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/banner/hi%2C%20i'm%20mz.dark.svg?color=f97316,f778ba&effect=type&tagline=security%20research%2C%20ml%2C%20and%20tooling">
-    <img alt="hi, i'm mz: security research, ml, and tooling" src="https://ascii.rest/banner/hi%2C%20i'm%20mz.svg?color=f97316,f778ba&effect=type&tagline=security%20research%2C%20ml%2C%20and%20tooling">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/dissolve.dark.svg">
+    <img alt="Moran — words dissolve between CYBER, AI, and SEC" src=".github/dissolve.svg" width="520">
   </picture>
 </p>
+
+<h3 align="center">Moran Zavdi</h3>
+<p align="center">Cyber Security &amp; A.I. Research</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/python.dark.svg">
-    <img alt="python" src="https://ascii.rest/svg/python.svg" height="72">
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/typescript.dark.svg">
-    <img alt="typescript" src="https://ascii.rest/svg/typescript.svg" height="72">
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/arch-linux.dark.svg">
-    <img alt="arch linux" src="https://ascii.rest/svg/arch-linux.svg" height="72">
-  </picture>
+  <a href="https://www.linkedin.com/in/moran-zavdi-cyber-security/">LinkedIn</a>
+  ·
+  <a href="https://medium.com/@when1go2market">Medium</a>
+  ·
+  <a href="https://cyberhallucinet.org/">CyberHalluciNet</a>
 </p>
-
-### About
-
-I build tools and experiments around **security research**, **machine learning**, and practical developer tooling. Currently exploring honeypot systems, open-source security lists, and applied ML.
-
-### Now
-
-- [honeypot-auditor](https://github.com/mziqudhd92/honeypot-auditor) — auditing and analysis for honeypot setups
-- [CASMI](https://github.com/mziqudhd92/CASMI) — security / research project
-- [fucking-awesome-honeypots](https://github.com/mziqudhd92/fucking-awesome-honeypots) — curated honeypot resources
-- [kaggle-Name-That-LLM](https://github.com/mziqudhd92/kaggle-Name-That-LLM) — ML competition work
-
-### Elsewhere
-
-<!-- Add real links when ready -->
-- GitHub: [mziqudhd92](https://github.com/mziqudhd92)
-- <!-- Site / LinkedIn / email -->
 
 ---
 
-<details>
-<summary>Notes</summary>
+### Focus
 
-This is a sample profile README. Edit the banner text/tagline at [ascii.rest/banner](https://ascii.rest/banner/), swap the logo row for your stack, and replace the project links with what you want pinned.
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/scramble.dark.svg">
+    <img alt="Focus areas decoding: cyber security, AI, honeypots, ML" src=".github/scramble.svg" width="440">
+  </picture>
+</p>
+
+I work on **cyber security**, **AI reasoning**, and **applied machine learning** — with an emphasis on systems you can run, audit, and extend.
+
+### Projects
+
+- **[CyberHalluciNet](https://cyberhallucinet.org/)** — main research platform for cyber security & A.I.
+  - **[AmberCell](https://cyberhallucinet.gitlab.io/ambercell/)** — key subproject under CyberHalluciNet
+- **[Honeypot Auditor](https://mziqudhd92.github.io/honeypot-auditor/)** — multi-protocol tooling that fingerprints honeypot-like behavior
+
+### Writing & research
+
+- **[Cyber Security & A.I. articles](https://medium.com/@when1go2market)** — research notes and write-ups on Medium
+- **[Machine Learning research code](https://github.com/Kagggle-Competition-Results)** — competition and experiment repositories
+
+### Connect
+
+- LinkedIn: [moran-zavdi-cyber-security](https://www.linkedin.com/in/moran-zavdi-cyber-security/)
+- GitHub: [mziqudhd92](https://github.com/mziqudhd92)

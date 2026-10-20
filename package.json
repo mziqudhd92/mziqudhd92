@@ -1,0 +1,25 @@
+{
+  "name": "mziqudhd92",
+  "version": "1.0.0",
+  "description": "GitHub profile README for mziqudhd92",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ascii": "node scripts/make-ascii.mjs"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mziqudhd92/mziqudhd92.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mziqudhd92/mziqudhd92/issues"
+  },
+  "homepage": "https://github.com/mziqudhd92/mziqudhd92#readme",
+  "devDependencies": {
+    "ascii.rest": "^0.4.0"
+  }
+}

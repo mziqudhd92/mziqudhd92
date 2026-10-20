@@ -16,7 +16,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/scramble.dark.svg">
-    <img alt="Focus areas: cyber deception, AI threat defense, CTI, machine learning" src=".github/scramble.svg" width="440">
+    <img alt="cyber deception, Agentic Threat Intelligence, Cyber Threat Intelligence, Adversary Generated Threat Intelligence, machine learning" src=".github/scramble.svg" width="440">
   </picture>
 </p>
 

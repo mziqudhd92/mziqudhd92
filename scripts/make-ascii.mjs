@@ -8,12 +8,13 @@ const scrambleOpts = {
   options: {
     phrases: [
       "cyber deception",
-      "AI threat defense",
-      "cyber threat intel",
+      "Agentic Threat Intelligence",
+      "Cyber Threat Intelligence",
+      "Adversary Generated Threat Intelligence",
       "machine learning",
     ],
   },
-  seconds: 13.2,
+  seconds: 18.8,
   fps: 12,
   scale: 10,
   label: "Focus areas decoding, in ascii",

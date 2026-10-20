@@ -5,27 +5,33 @@ import { dissolve, scramble } from "ascii.rest/pieces";
 mkdirSync(".github", { recursive: true });
 
 // dissolve period = words.length * (HOLD 1.6 + TRANS 2.6)
-const dissolveWords = ["MORAN", "CYBER", "AI", "SEC"];
+const dissolveWords = [
+  "Cyber Deception",
+  "CyberHalluciNet",
+  "A.I",
+  "C.T.I",
+  "M.L",
+  "Research",
+];
 const dissolveSeconds = dissolveWords.length * (1.6 + 2.6);
 
 const dissolveOpts = {
   options: { words: dissolveWords },
   seconds: dissolveSeconds,
-  fps: 12,
+  fps: 10,
   scale: 8,
-  label: "Moran — cyber, AI, security, in ascii",
+  label: "Cyber Deception, CyberHalluciNet, A.I, C.T.I, M.L, Research",
 };
 
 const scrambleOpts = {
   options: {
     phrases: [
-      "cyber security research",
-      "AI reasoning systems",
-      "honeypot analysis",
+      "cyber deception",
+      "AI threat defense",
+      "cyber threat intel",
       "machine learning",
     ],
   },
-  // full phrase cycle (~13s); slightly padded so the loop lands cleanly
   seconds: 13.2,
   fps: 12,
   scale: 10,

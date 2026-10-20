@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/dissolve.dark.svg">
-    <img alt="Moran — words dissolve between CYBER, AI, and SEC" src=".github/dissolve.svg" width="520">
+    <img alt="Cyber Deception · CyberHalluciNet · A.I · C.T.I · M.L · Research" src=".github/dissolve.svg" width="560">
   </picture>
 </p>
 
@@ -23,17 +23,17 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/scramble.dark.svg">
-    <img alt="Focus areas decoding: cyber security, AI, honeypots, ML" src=".github/scramble.svg" width="440">
+    <img alt="Focus areas: cyber deception, AI threat defense, CTI, machine learning" src=".github/scramble.svg" width="440">
   </picture>
 </p>
 
-I work on **cyber security**, **AI reasoning**, and **applied machine learning** — with an emphasis on systems you can run, audit, and extend.
+I build **cyber deception**, **AI-aware defense**, and **threat-intelligence** tooling — systems designed to catch machine-speed adversaries with evidence you can act on.
 
 ### Projects
 
-- **[CyberHalluciNet](https://cyberhallucinet.org/)** — main research platform for cyber security & A.I.
-  - **[AmberCell](https://cyberhallucinet.gitlab.io/ambercell/)** — key subproject under CyberHalluciNet
-- **[Honeypot Auditor](https://mziqudhd92.github.io/honeypot-auditor/)** — multi-protocol tooling that fingerprints honeypot-like behavior
+- **[CyberHalluciNet](https://cyberhallucinet.org/)** — free deception engine for IT, OT, and AI threats. When an adversary (human or AI) triggers a forbidden scenario on decoys, you get campaign-grade evidence and a human-approved Soft/Hard response path — not another SIEM alert flood.
+  - **[AmberCell](https://cyberhallucinet.gitlab.io/ambercell/)** — high-interaction honeypot that runs *real* open-source services in sealed cells, records every packet, and ships intelligence through a one-way dead drop.
+- **[Honeypot Auditor](https://mziqudhd92.github.io/honeypot-auditor/)** — multi-protocol CLI that fingerprints whether a target behaves like a low-interaction honeypot, with a weighted Honeyscore and non-destructive probes (authorized targets only).
 
 ### Writing & research
 

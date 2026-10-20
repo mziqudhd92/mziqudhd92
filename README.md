@@ -35,7 +35,7 @@ I build **cyber deception**, **AI-aware defense**, and **threat-intelligence** t
 ### Writing & research
 
 - **[Cyber Security & A.I. articles](https://medium.com/@when1go2market)** — research notes and write-ups on Medium
-- **[Machine Learning research code](https://github.com/Kagggle-Competition-Results)** — competition and experiment repositories
+- **[Machine Learning research code](https://github.com/Kagggle-Competition-Results)** — open source competition and experiment repositories
 
 ### Connect
 

@@ -1,15 +1,10 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/dissolve.dark.svg">
-    <img alt="Cyber Deception · CyberHalluciNet · A.I · C.T.I · M.L · Research" src=".github/dissolve.svg" width="560">
-  </picture>
-</p>
-
 <h3 align="center">Moran Zavdi</h3>
 <p align="center">Cyber Security &amp; A.I. Research</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moran-zavdi-cyber-security/">LinkedIn</a>
+  ·
+  <a href="https://www.forbes.com/councils/forbestechcouncil/people/moranzavdi/">Forbes</a>
   ·
   <a href="https://medium.com/@when1go2market">Medium</a>
   ·

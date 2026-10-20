@@ -39,5 +39,4 @@ I build **cyber deception** and **threat-intelligence** systems — agentic CTI,
 ### Connect
 
 - Email: [security@helloaeterna.com](mailto:security@helloaeterna.com)
-- LinkedIn: [moran-zavdi-cyber-security](https://www.linkedin.com/in/moran-zavdi-cyber-security/)
 - Kaggle: [moranzavdi](https://www.kaggle.com/moranzavdi)

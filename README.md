@@ -10,8 +10,6 @@
   <a href="https://medium.com/@when1go2market">Medium</a>
   ·
   <a href="https://cyberhallucinet.org/">CyberHalluciNet</a>
-  ·
-  <a href="https://www.kaggle.com/moranzavdi">Kaggle</a>
 </p>
 
 ---

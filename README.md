@@ -7,6 +7,8 @@
   ·
   <a href="https://www.forbes.com/councils/forbestechcouncil/people/moranzavdi/">Forbes</a>
   ·
+  <a href="https://scholar.google.com/citations?user=osjKPVYAAAAJ&hl=en">Scholar</a>
+  ·
   <a href="https://medium.com/@when1go2market">Medium</a>
   ·
   <a href="https://cyberhallucinet.org/">CyberHalluciNet</a>
@@ -33,6 +35,7 @@ I build **cyber deception** and **threat-intelligence** systems — agentic CTI,
 
 ### Writing & research
 
+- **[Google Scholar](https://scholar.google.com/citations?user=osjKPVYAAAAJ&hl=en)** — patents and citations ([Google Patents](https://patents.google.com/?q=(%22moran+zavdi%22)&oq=%22moran+zavdi%22))
 - **[Cyber Security & AI articles](https://medium.com/@when1go2market)** — research notes and write-ups on Medium
 - **[Machine Learning research code](https://github.com/Kagggle-Competition-Results)** — open-source competition and experiment repositories
 

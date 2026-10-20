@@ -24,7 +24,7 @@ I build **cyber deception** and **threat-intelligence** systems — agentic CTI,
 
 ### Projects
 
-- **[CyberHalluciNet](https://cyberhallucinet.org/)** ([source](https://github.com/CyberHalluciNet/CyberHalluciNet)) — free deception engine for IT, OT, and AI threats with campaign-grade evidence and a human Soft/Hard response path.
+- **[CyberHalluciNet](https://cyberhallucinet.org/)** — free deception engine for IT, OT, and AI threats with campaign-grade evidence and a human Soft/Hard response path.
   - **[AmberCell](https://cyberhallucinet.gitlab.io/ambercell/)** ([source](https://gitlab.com/cyberhallucinet/ambercell)) — high-interaction honeypot running real open-source services in sealed cells with a one-way intelligence dead drop.
 - **[UHBS](https://uhbs-standard.gitlab.io/uhbs/)** ([source](https://gitlab.com/uhbs-standard/uhbs)) — vendor-neutral honeypot benchmarking standard (UHQS 0–100 + Safety Gate) with CLI, Docker lab, and MCP grading.
 - **[Honeypot Auditor](https://mziqudhd92.github.io/honeypot-auditor/)** ([source](https://github.com/mziqudhd92/honeypot-auditor)) — multi-protocol CLI that fingerprints low-interaction honeypots with a weighted Honeyscore (authorized targets only).

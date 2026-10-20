@@ -1,11 +1,8 @@
 <h3 align="center">Moran Zavdi</h3>
 <p align="center">Cyber Security – A.I. Research – Cyber Deception</p>
-<p align="center"><em>Member, Forbes Technology Council</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moran-zavdi-cyber-security/">LinkedIn</a>
-  ·
-  <a href="https://www.forbes.com/councils/forbestechcouncil/people/moranzavdi/">Forbes</a>
   ·
   <a href="https://scholar.google.com/citations?user=osjKPVYAAAAJ&hl=en">Scholar</a>
   ·

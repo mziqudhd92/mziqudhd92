@@ -28,7 +28,9 @@ I build **cyber deception**, **AI-aware defense**, and **threat-intelligence** t
 
 - **[CyberHalluciNet](https://cyberhallucinet.org/)** — free deception engine for IT, OT, and AI threats. When an adversary (human or AI) triggers a forbidden scenario on decoys, you get campaign-grade evidence and a human-approved Soft/Hard response path — not another SIEM alert flood.
   - **[AmberCell](https://cyberhallucinet.gitlab.io/ambercell/)** — high-interaction honeypot that runs *real* open-source services in sealed cells, records every packet, and ships intelligence through a one-way dead drop.
+- **[UHBS](https://uhbs-standard.gitlab.io/uhbs/)** — Universal Honeypot Benchmarking Standard: vendor-neutral honeypot evaluation with UHQS (0–100) and a Safety Gate — CLI, Docker lab, and MCP for AI-assisted grading.
 - **[Honeypot Auditor](https://mziqudhd92.github.io/honeypot-auditor/)** — multi-protocol CLI that fingerprints whether a target behaves like a low-interaction honeypot, with a weighted Honeyscore and non-destructive probes (authorized targets only).
+- **[Iridium](https://github.com/mziqudhd92/Iridium)** — offensive research / red-team AI Cyber Reasoning System. Multi-role AI reasoning plus runtime verification to hunt, prove, and package real memory-corruption vulnerabilities — not scanner noise.
 
 ### Writing & research
 

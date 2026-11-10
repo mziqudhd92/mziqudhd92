@@ -34,4 +34,4 @@ I build **cyber deception** and **threat-intelligence** systems — agentic CTI,
 
 - **[Google Scholar](https://scholar.google.com/citations?user=osjKPVYAAAAJ&hl=en)** — patents and citations ([Google Patents](https://patents.google.com/?q=(%22moran+zavdi%22)&oq=%22moran+zavdi%22))
 - **[Cyber Security & AI articles](https://medium.com/@when1go2market)** — research notes and write-ups on Medium
-- **[Machine Learning & A.I Research Code](https://github.com/Geek-Data-AI-ML-Research)** — My Open Source Data Science Repositories
+- **[Machine Learning & A.I Research Code](https://github.com/Aeterna-Data-AI-ML-Research)** — My Open Source Data Science Repositories
